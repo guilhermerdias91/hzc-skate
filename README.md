@@ -2,7 +2,7 @@
 
 Toda a estilização que será usada no projeto dentro do figma.
 
-[Link do projeto no figma](https://www.figma.com/file/ibWktwVpnog76rMYOdVhks/Dispondo-elementos-com-flexbox-e-grid?node-id=54%3A2358)
+[Link do projeto no figma](https://www.figma.com/file/fZ4ZwNBDM4nXw1lokejuN5/HZC---Skatelife?node-id=54%3A2358)
 
 ## Fonte
 
